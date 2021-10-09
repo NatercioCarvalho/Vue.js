@@ -352,3 +352,128 @@ h3{
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
+
+
+.patrocinio{
+    
+    padding: 35px 40px 45px;
+    background-color: #f6f6f6;
+}
+.inside{
+    max-width: 700px;
+    margin: 0px auto;
+    text-align: center;
+}
+.inside h3{
+    color: #999;
+    margin: 0 0 30px;
+    font-weight: 600;
+}
+.patrocinio-button{
+    margin-top: 40px;
+    margin-right: 1%;
+    font-size: 1.05em;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    min-width: 8em;
+    text-align: center;
+    padding: 0.75em 2em;
+    border-radius: 2em;
+    display: inline-block;
+    transition: all 0.15s ease;
+    box-sizing: border-box;
+    border: 1px solid #4fc08d;
+    cursor: pointer;
+   
+}
+.b-white{
+    background-color: #fff;
+    color: #42b983;
+}
+
+.coletiva{
+    margin-top: 60px;
+    text-align: center;
+}
+.coletiva h3{
+    color: #999;
+    margin: 0 0 10px;
+    font-weight: 600;
+}
+
+.assinatura{
+    padding: 40px 20px 70px;
+    text-align: center;
+    background-color: #fff;
+}
+.interioridade{
+    max-width: 1260px;
+    margin: 0 auto;
+    text-align: center;
+}
+.interioridade h3{
+    font-weight: 600;
+    color: #273849;
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.form-assinatura{
+    position: relative;
+    max-width: 550px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    display: block;
+    text-align: center;
+}
+.email{
+    
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 80px 10px 20px;
+    height: 50px;
+    border-radius: 50px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    
+}
+.form-assinatura-2{
+    
+    position: absolute;
+    padding: 4px 20px;
+    margin: 0;
+    height: calc(100% - 8px);
+    right: 4px;
+    top: 4px;
+    cursor: pointer;
+    font-size: 1.05em;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    min-width: 8em;
+    text-align: center;
+    text-transform: none;
+    transition: all 0.15s ease;
+    display: inline-block;
+    
+
+    
+}
+
+.verde{
+    border-radius: 2em;
+    
+    color: #fff;
+    background-color: #4fc08d;
+    
+    box-sizing: border-box;
+    border: 1px solid #4fc08d;
+}
+.interioridade p{
+    
+    margin-top: 10px;
+    word-spacing: 0.05em;
+    text-align: center;
+}
