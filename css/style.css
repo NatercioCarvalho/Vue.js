@@ -259,3 +259,96 @@ h1{
     border-color: rgba(255, 255, 255, 0.014);
 }
 
+.special{
+    background-color: #fff;
+    text-align: center;
+    padding-bottom: 30px;
+}
+h3{
+    margin: 0;
+    font-weight: 600;
+    color: #273849;
+    
+}
+
+
+.special img{
+    width: 160px;
+    margin: 15px 0 0;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+.direcao{
+    background-color: #fff;
+    padding-bottom: 70px;
+}
+.dentro{
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+.apontamento{
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    padding: 0 2em;
+}
+.apontamento h2{
+    color: #42b983;
+    font-size: 1.5em;
+    font-weight: 400;
+    margin: 0;
+    padding: 0.5em 0;
+}
+.apontamento p{
+    color: #4f5959;
+    word-spacing: 0.05em;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.apontamento-2{
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    padding: 0 2em;
+}
+.apontamento-2 h2{
+    color: #42b983;
+    font-size: 1.5em;
+    font-weight: 400;
+    margin: 0;
+    padding: 0.5em 0;
+}
+.apontamento-2 p{
+    color: #4f5959;
+    word-spacing: 0.05em;
+}
+.apontamento-3{
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    padding: 0 2em;
+}
+.apontamento-3 h2{
+    color: #42b983;
+    font-size: 1.5em;
+    font-weight: 400;
+    margin: 0;
+    padding: 0.5em 0;
+}
+.apontamento-3 p{
+    color: #4f5959;
+    word-spacing: 0.05em;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
