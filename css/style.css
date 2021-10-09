@@ -472,8 +472,22 @@ h3{
     border: 1px solid #4fc08d;
 }
 .interioridade p{
-    
+    word-spacing: 0.05em;
+    font-weight: 100;
     margin-top: 10px;
     word-spacing: 0.05em;
     text-align: center;
+}
+
+.final{
+    background-color: #475050;
+    padding: 40px;
+    color: #fff;
+    text-align: center;
+    display: block;
+}
+.final p{
+    word-spacing: 0.05em;
+     font-weight: 100;
+    
 }
